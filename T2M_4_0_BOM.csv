@@ -1,0 +1,21 @@
+Ref,Qty,Desc,Mfg,MPN,Digi-Key
+C1 C4 C6 C9 C10 C16 C18 C20 C21 C22 C24,11,0.22µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric),Samsung,CL05B224KO5NNNC,1276-1176-1-ND
+C2,1,2.2µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric),Murata,GRM155R61A225ME95D,490-10452-1-ND
+C3 C5 C13 C19 C23,5,4.7µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric),Murata,GRM155R61A475MEAAD,490-14306-1-ND
+C7 C15 C17 C25 C26,5,10µF ±20% 16V Ceramic Capacitor X5R 0603 (1608 Metric),Murata,GRM188R61C106MA73D,490-7201-1-ND
+C8 C11,2,"12pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)",Yageo,CC0402JRNPO9BN120,311-1016-1-ND
+C12 C14,2,"20pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)",Yageo,CC0402JRNPO9BN200,311-1417-1-ND
+D1,1,Orange 605nm LED Indication - Discrete 2V 0402 (1005 Metric),Vishay,VLMO1500-GS08,VLMO1500-GS08CT-ND
+D2,1,"Diode Array 2 Pair Common Cathode Schottky 30V 200mA (DC) Surface Mount SOT-563, SOT-666",Nexperia,"BAT54CV,115",1727-3568-1-ND
+F1,1,"Polymeric PTC Resettable Fuse 9V 200mA Ih Surface Mount 0603 (1608 Metric), Concave",Bourns,MF-FSMF020X-2,MF-FSMF020X-2CT-ND
+L1 L2,2,120 Ohms @ 100MHz 1 Power Line Ferrite Bead 0402 (1005 Metric) 1.3A 91mOhm,Taiyo Yuden,BKP1005TS121-T,587-3014-1-ND
+L3,1,4.7µH Shielded Multilayer Inductor 400mA 320mOhm 0603 (1608 Metric),TDK,MLZ1608N4R7LT000,445-9286-1-ND
+Q1,1,P-Channel 20V 4.2A (Ta) 1.4W (Ta) Surface Mount SOT-23,Diodes Inc,DMG2305UX-13,DMG2305UX-13DICT-ND
+R1,1,"2.2 MOhms ±5% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film",Yageo,RC0402JR-072M2L,YAG3292CT-ND
+R2 R4,2,"100 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film",Yageo,RC0402FR-07100KL,311-100KLRCT-ND
+R3,1,"470 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film",Yageo,RC0402FR-07470RL,311-470LRCT-ND
+U1,1,ARM® Cortex®-M7 RT1060 Microcontroller IC 32-Bit 600MHz  External Program Memory 196-MAPBGA (10x10),NXP,MIMXRT1062DVL6A,568-14668-ND
+U2,1,3V 16M-Bit Serial Flash Memory With Dual/Quad SPI,Winbond,W25Q16JVUXIQ,N/A (search Octopart)
+U3,1,Linear Voltage Regulator IC 1 Output 1A 6-WSON (2x2),Texas Instruments,TLV75733PDRVR,296-49281-1-ND
+X1,1,"24MHz ±10ppm Crystal 8pF 100 Ohms 4-SMD, No Lead",Abracon,ABM11W-24.0000MHZ-8-B1U-T3,535-13834-1-ND
+X2,1,"32.768kHz ±20ppm Crystal 12.5pF 90 kOhms 2-SMD, No Lead",Epson,FC-12M 32.7680KA-A5,SER4080CT-ND

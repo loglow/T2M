@@ -1,0 +1,10 @@
+Ref,Qty,Desc,Mfg,MPN,Digi-Key
+C1 C2,2,1µF ±10% 16V Ceramic Capacitor X7R 0805 (2012 Metric),Yageo,CC0805KKX7R7BB105,311-1365-1-ND
+C3,1,0.22µF ±10% 16V Ceramic Capacitor X7R 0805 (2012 Metric),Samsung,CL21B224KOCNNNC,1276-1284-1-ND
+D1,1,Green 570nm LED Indication - Discrete 2.2V 0805 (2012 Metric),OSRAM,LG R971-KN-1,475-1410-1-ND
+H1,1,14 Position Spring Piston Connector Through Hole,Mill-Max,855-22-014-10-001101,855-22-014-10-001101-ND
+J1,1,USB - micro B USB 2.0 Receptacle Connector 5 Position Through Hole,GCT,USB3131-30-0230-A,2073-USB3131-30-0230-ACT-ND
+R1,1,"56 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film",Yageo,RC0805FR-0756RL,311-56.0CRCT-ND
+S1,1,Tactile Switch SPST-NO Top Actuated Surface Mount,Panasonic,EVQ-Q2U02W,P12954SCT-ND
+U1,1,"Bootloader Chip for DIY Teensy LC, 3.2, 3.5, 3.6 Projects",PJRC,IC_MKL02Z32_QFN16,N/A
+U2,1,Linear Voltage Regulator IC  1 Output  800mA SOT-223-4,Texas Instruments,LM1117MPX-3.3/NOPB,LM1117MPX-3.3/NOPBCT-ND
